@@ -1,4 +1,4 @@
-![](https://github.com/bizz84/Sustainable-List/raw/master/Sustainable-List.png)
+![](https://raw.githubusercontent.com/bizz84/Sustainable-List/master/Sustainable-List.png)
 
 [![Build Status](https://api.travis-ci.org/bizz84/Sustainable-List.svg?branch=master)](https://travis-ci.org/bizz84/Sustainable-List)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
