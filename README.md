@@ -31,3 +31,7 @@ Sustainable-List is an amazing list for people who want to live more sustainably
 # Credits
 
 Icons made by [FreePik](http://www.freepik.com) from [FlatIcon](www.flaticon.com) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/).
+
+# Contributing and License
+ * [See the guide](https://github.com/bizz84/Sustainable-List/blob/master/.github/CONTRIBUTING.md)
+ * Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
