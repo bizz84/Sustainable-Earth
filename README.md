@@ -57,6 +57,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 * 2017-08-07 - [Fossil fuel subsidies are a staggering $5 tn per year](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2017/aug/07/fossil-fuel-subsidies-are-a-staggering-5-tn-per-year).
 * 2017-07-10 - [Just 100 companies responsible for 71% of global emissions, study says](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change).
+* 2017-07-09 - [The Uninhabitable Earth](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) - Famine, economic collapse, a sun that cooks us: What climate change could wreak — sooner than you think.
 * 2017-03-23 - [Scientists made a detailed “roadmap” for meeting the Paris climate goals. It’s eye-opening.](https://www.vox.com/energy-and-environment/2017/3/23/15028480/roadmap-paris-climate-goals)
 
 # Movies
