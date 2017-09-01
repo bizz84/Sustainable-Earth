@@ -24,6 +24,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [How to Use](#how-to-use)
 - [Books](#books)
 - [Climate Protection Projects](#climate)
+- [Companies](#companies)
 - [Apps](#apps)
 - [Articles](#articles)
 - [Movies](#movies)
@@ -37,6 +38,9 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
 * [OneTreePlanted](https://onetreeplanted.org/) - Non Profit Focused on Global Reforestation.
 * [Rainforest Alliance](http://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
+
+# Companies
+* [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
 
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A Diary of Your Carbon Footprint.
