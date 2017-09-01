@@ -37,7 +37,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 # Books
 * [Leftover Pie](https://leftoverpie.co.uk/) - 101 ways to reduce your food waste.
 * [Drawdown](http://www.drawdown.org/) - The most comprehensive plan ever proposed to reverse global warming.
-* [Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/0007209053): Our future on a hotter planet 
+* [Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/0007209053): Our future on a hotter planet.
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
