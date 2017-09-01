@@ -33,6 +33,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Tools](#tools)
 - [Articles](#articles)
 - [Movies](#movies)
+- [YouTube](#youtube)
 - [Contributing](#contributing)
 
 # Disclaimer
@@ -86,6 +87,9 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Movies
 * [Before The Flood](https://www.beforetheflood.com/) - documentary about Climate Change, featuring Leonardo DiCaprio.
+
+# YouTube
+* [Paul Beckwith](https://www.youtube.com/channel/UCr546o7ImhGM57qoY0hHvkA) - videos about abrupt climate change ([Paul Beckwith bio](https://paulbeckwith.net/about/))
 
 # Credits
 
