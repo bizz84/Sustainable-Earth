@@ -43,7 +43,7 @@ The purpose of this project is as follows:
 
 **NOTE**: Some of the content on this list is of political nature (see [this thread](https://news.ycombinator.com/item?id=15148860) on Hacker News). 
 
-While keeping politics out of the equation may be desirable, the author believes that **protecting the environment is an urgent matter** and more important than the political noise around this. 
+The author believes that **protecting the environment is an urgent matter** and more important than trying to keep politics out of the equation.
 
 # Books
 * [Leftover Pie](https://leftoverpie.co.uk/) - 101 ways to reduce your food waste.
