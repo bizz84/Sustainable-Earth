@@ -39,6 +39,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
 * [OneTreePlanted](https://onetreeplanted.org/) - Non Profit Focused on Global Reforestation.
 * [Rainforest Alliance](http://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
+* [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
 
 # Companies
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
