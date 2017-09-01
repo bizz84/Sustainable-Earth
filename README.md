@@ -27,6 +27,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Companies](#companies)
 - [Apps](#apps)
 - [Reference](#reference)
+- [Tools](#tools)
 - [Articles](#articles)
 - [Movies](#movies)
 - [Contributing](#contributing)
@@ -55,6 +56,10 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
 * [NASA - Global Climate Change](https://climate.nasa.gov/) - Vital signs of the planet.
+
+# Tools
+
+* [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/CO2-emissions) - platform to see the most up-to-date data on carbon fluxes resulting from human activities and natural processes.
 
 # Articles
 
