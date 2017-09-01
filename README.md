@@ -24,6 +24,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Books](#books)
 - [Apps](#apps)
 - [Movies](#movies)
+- [Contributing](#contributing)
 
 # Books
 * [Leftover Pie](https://leftoverpie.co.uk/) - 101 Ways to Reduce your Food Waste.
