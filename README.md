@@ -57,6 +57,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Rainforest Alliance](http://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
 * [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
 * [helsinkifoundation.org](https://www.helsinkifoundation.org/) - Create your own personal wilderness reserve, or give one to someone else.
+* [Rainforest Partnership](https://rainforestpartnership.org/) - Data driven international nonprofit dedicated to protecting tropical rainforests.
 
 # Companies
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
