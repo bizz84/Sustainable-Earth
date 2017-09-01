@@ -54,6 +54,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
+* [NASA - Global Climate Change](https://climate.nasa.gov/) - Vital signs of the planet.
 
 # Articles
 
