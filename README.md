@@ -32,12 +32,12 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Contributing](#contributing)
 
 # Books
-* [Leftover Pie](https://leftoverpie.co.uk/) - 101 Ways to Reduce your Food Waste.
+* [Leftover Pie](https://leftoverpie.co.uk/) - 101 ways to reduce your food waste.
 * [Drawdown](http://www.drawdown.org/) - The most comprehensive plan ever proposed to reverse global warming.
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
-* [OneTreePlanted](https://onetreeplanted.org/) - Non Profit Focused on Global Reforestation.
+* [OneTreePlanted](https://onetreeplanted.org/) - Non profit focused on global reforestation.
 * [Rainforest Alliance](http://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
 * [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
 
@@ -47,8 +47,8 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 * [350.org](https://350.org/) - building the global grassroots climate movement that can hold our leaders accountable to science and justice.
 
 # Apps
-* [Eco Buddy](http://ecobuddyapp.com/) - A Diary of Your Carbon Footprint.
-* [ShareTheMeal](https://sharethemeal.org/) - Together We Can End Hunger.
+* [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint.
+* [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
 
 # Reference
