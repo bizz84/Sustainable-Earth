@@ -40,6 +40,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A Diary of Your Carbon Footprint.
+* [ShareTheMeal](https://sharethemeal.org/) - Together We Can End Hunger.
 
 # Articles
 
