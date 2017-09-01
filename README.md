@@ -8,7 +8,7 @@
 
 A curated list of all things sustainable.
 
-The list is divided into categories such as Books, Blogs / Publications, Apps. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/bizz84/Sustainable-Earth/blob/master/.github/CONTRIBUTING.md).
+The list is divided into categories such as Books, Companies, Apps, Movies. There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/bizz84/Sustainable-Earth/blob/master/.github/CONTRIBUTING.md).
 
 # How to Use
 Sustainable-Earth is an amazing list for people who want to live more sustainably or help make the world a better place.
