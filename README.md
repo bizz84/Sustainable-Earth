@@ -42,6 +42,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 # Companies
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
+* [Greenpeace](http://www.greenpeace.org/international/en/) - Independent organisation to protect and conserve the environment and promote peace.
 
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A Diary of Your Carbon Footprint.
