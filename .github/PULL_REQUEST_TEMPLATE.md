@@ -6,7 +6,7 @@
 ## Description
 <!--- Describe your changes in detail -->
  
-## Why it should be included to `Sustainable-List` (optional)
+## Why it should be included to `Sustainable-Earth` (optional)
 
 ## Checklist
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
