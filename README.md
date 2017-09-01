@@ -24,6 +24,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 - [About](#about)
 - [How to Use](#how-to-use)
+- [Disclaimer](#disclaimer)
 - [Books](#books)
 - [Climate Protection Projects](#climate)
 - [Companies](#companies)
@@ -33,6 +34,16 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Articles](#articles)
 - [Movies](#movies)
 - [Contributing](#contributing)
+
+# Disclaimer
+
+The purpose of this project is as follows:
+
+#### Inform and empower people to make choices leading to a better future for humankind.
+
+**NOTE**: Some of the content on this list is of political nature (see [this thread](https://news.ycombinator.com/item?id=15148860) on Hacker News). 
+
+While keeping politics out of the equation may be desirable, the author believes that **protecting the environment is an urgent matter** and more important than the political noise around this. 
 
 # Books
 * [Leftover Pie](https://leftoverpie.co.uk/) - 101 ways to reduce your food waste.
