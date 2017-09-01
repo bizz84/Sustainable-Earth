@@ -44,6 +44,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 * [OneTreePlanted](https://onetreeplanted.org/) - Non profit focused on global reforestation.
 * [Rainforest Alliance](http://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
 * [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
+* [helsinkifoundation.org](https://www.helsinkifoundation.org/) - Create your own personal wilderness reserve, or give one to someone else.
 
 # Companies
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
