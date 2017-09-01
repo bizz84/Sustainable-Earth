@@ -29,6 +29,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Climate Protection Projects](#climate)
 - [Companies](#companies)
 - [Apps](#apps)
+- [Blogs / Publications](#blogs)
 - [Reference](#reference)
 - [Tools](#tools)
 - [Articles](#articles)
@@ -66,6 +67,9 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
+
+# Blogs / Publications
+* [Carbon Friendly](https://medium.com/carbon-friendly) - Articles about climate change and living sustainably.
 
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
