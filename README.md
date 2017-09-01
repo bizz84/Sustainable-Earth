@@ -2,7 +2,7 @@
 
 [![Build Status](https://api.travis-ci.org/bizz84/Sustainable-Earth.svg?branch=master)](https://travis-ci.org/bizz84/Sustainable-Earth)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-
+[![Twitter](https://img.shields.io/badge/twitter-@SustainForEarth-blue.svg?maxAge=2592000)](https://twitter.com/SustainForEarth)
 
 # About
 
