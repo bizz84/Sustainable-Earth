@@ -22,4 +22,4 @@ Typical reasons for deleting project:
 
 - Not written in English
 
-Your contributions are always welcome!  Thank you for your suggestions! :smiley:
+Your contributions are always welcome! Thank you for your suggestions! :smiley:
