@@ -50,7 +50,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
 
 # Apps
-* [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint.
+* [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
 
