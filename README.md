@@ -35,6 +35,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
+* [OneTreePlanted](https://onetreeplanted.org/) - Non Profit Focused on Global Reforestation.
 
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A Diary of Your Carbon Footprint.
