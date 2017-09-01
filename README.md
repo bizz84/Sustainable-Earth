@@ -76,6 +76,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Articles
 
+* 2017-08-29 - [More Than 1,000 Died in South Asia Floods This Summer.](https://www.nytimes.com/2017/08/29/world/asia/floods-south-asia-india-bangladesh-nepal-houston.html)
 * 2017-08-29 - [Why are the crucial questions about Hurricane Harvey not being asked?](https://www.theguardian.com/commentisfree/2017/aug/29/hurricane-harvey-manmade-climate-disaster-world-catastrophe)
 * 2017-08-07 - [Fossil fuel subsidies are a staggering $5 tn per year](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2017/aug/07/fossil-fuel-subsidies-are-a-staggering-5-tn-per-year).
 * 2017-07-10 - [Just 100 companies responsible for 71% of global emissions, study says](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change).
