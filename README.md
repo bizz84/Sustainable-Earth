@@ -33,7 +33,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 # Credits
 
-Icons made by [Flat Icons](http://www.flaticon.com/authors/flat-icons) from [FlatIcon](www.flaticon.com) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/).
+Icons made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [FlatIcon](www.flaticon.com) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/).
 
 # Contributing and License
  * [See the guide](https://github.com/bizz84/Sustainable-Earth/blob/master/.github/CONTRIBUTING.md)
