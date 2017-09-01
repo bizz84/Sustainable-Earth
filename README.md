@@ -49,7 +49,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A Diary of Your Carbon Footprint.
 * [ShareTheMeal](https://sharethemeal.org/) - Together We Can End Hunger.
-* [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
+* [Plume Labs](https://plumelabs.com/) - The first smart air quality tracker.
 
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
