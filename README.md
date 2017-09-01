@@ -15,7 +15,7 @@ The list is divided into categories such as Books, Companies, Apps, Movies. Ther
 # How to Use
 Sustainable-Earth is an amazing list for people who want to live more sustainably or help make the world a better place.
 
-- Ask for help on our [Twitter](https://twitter.com/SustainForEarth) page.
+- Ask for help on our [Twitter](https://twitter.com/SustainForEarth) or [Gitter Channel](https://gitter.im/SustainableEarth).
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
