@@ -51,6 +51,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Leftover Pie](https://leftoverpie.co.uk/) - 101 ways to reduce your food waste.
 * [Drawdown](http://www.drawdown.org/) - The most comprehensive plan ever proposed to reverse global warming.
 * [Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/0007209053): Our future on a hotter planet.
+* [Cradle to Cradle](https://www.amazon.com/Cradle-Remaking-Way-Make-Things/dp/0865475873) - Remaking the way we make things.
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
