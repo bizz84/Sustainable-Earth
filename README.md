@@ -70,6 +70,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Blogs / Publications
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
+* [Reddit Environment](https://www.reddit.com/r/environment/) - Recent news, information and issues related to the environment.
 * [Carbon Friendly](https://medium.com/carbon-friendly) - Articles about climate change and living sustainably.
 
 # Reference
