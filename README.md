@@ -85,6 +85,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Articles
 
+* 2017-09-07 - [In a summer of wildfires and hurricanes, my son asks "why is everything going wrong?"](https://theintercept.com/2017/09/09/in-a-summer-of-wildfires-and-hurricanes-my-son-asks-why-is-everything-going-wrong/)
 * 2017-08-29 - [More Than 1,000 Died in South Asia Floods This Summer.](https://www.nytimes.com/2017/08/29/world/asia/floods-south-asia-india-bangladesh-nepal-houston.html)
 * 2017-08-29 - [Why are the crucial questions about Hurricane Harvey not being asked?](https://www.theguardian.com/commentisfree/2017/aug/29/hurricane-harvey-manmade-climate-disaster-world-catastrophe)
 * 2017-08-07 - [Fossil fuel subsidies are a staggering $5 tn per year](https://www.theguardian.com/environment/climate-consensus-97-per-cent/2017/aug/07/fossil-fuel-subsidies-are-a-staggering-5-tn-per-year).
