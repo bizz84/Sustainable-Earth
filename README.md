@@ -85,6 +85,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Articles
 
+* 2017-09-14 - [100 Percent Wishful Thinking: the Green-Energy Cornucopia](https://www.counterpunch.org/2017/09/14/100-percent-wishful-thinking-the-green-energy-cornucopia/)
 * 2017-09-07 - [In a summer of wildfires and hurricanes, my son asks "why is everything going wrong?"](https://theintercept.com/2017/09/09/in-a-summer-of-wildfires-and-hurricanes-my-son-asks-why-is-everything-going-wrong/)
 * 2017-08-29 - [More Than 1,000 Died in South Asia Floods This Summer.](https://www.nytimes.com/2017/08/29/world/asia/floods-south-asia-india-bangladesh-nepal-houston.html)
 * 2017-08-29 - [Why are the crucial questions about Hurricane Harvey not being asked?](https://www.theguardian.com/commentisfree/2017/aug/29/hurricane-harvey-manmade-climate-disaster-world-catastrophe)
