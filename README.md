@@ -52,6 +52,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Drawdown](http://www.drawdown.org/) - The most comprehensive plan ever proposed to reverse global warming.
 * [Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/0007209053): Our future on a hotter planet.
 * [Cradle to Cradle](https://www.amazon.com/Cradle-Remaking-Way-Make-Things/dp/0865475873) - Remaking the way we make things.
+* [The Rough Guide to Green Living](https://www.amazon.co.uk/Rough-Guide-Green-Living/dp/1848361076) - fact-filled, user-friendly guide to living a low-carbon, eco-friendly life.
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
