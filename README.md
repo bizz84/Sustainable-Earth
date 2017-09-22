@@ -111,6 +111,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 # Contests
 
 * [MIT Climate CoLab](https://climatecolab.org) - A collaborative online community centered around a series of annual contests that seek out promising ideas for fighting climate change.
+* [Climate Action Challenge](https://challenge.whatdesigncando.com) - global design competition calling on the creative community to submit bold, innovative solutions to combat the impacts of climate change.
 
 # Credits
 
