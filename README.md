@@ -35,6 +35,7 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Articles](#articles)
 - [Movies](#movies)
 - [YouTube](#youtube)
+- [Contests](#contests)
 - [Contributing](#contributing)
 
 # Disclaimer
@@ -106,6 +107,10 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # YouTube
 * [Paul Beckwith](https://www.youtube.com/channel/UCr546o7ImhGM57qoY0hHvkA) - videos about abrupt climate change ([Paul Beckwith bio](https://paulbeckwith.net/about/))
+
+# Contests
+
+* [MIT Climate CoLab](https://climatecolab.org) - A collaborative online community centered around a series of annual contests that seek out promising ideas for fighting climate change.
 
 # Credits
 
