@@ -58,7 +58,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
 * [OneTreePlanted](https://onetreeplanted.org/) - Non profit focused on global reforestation.
-* [Rainforest Alliance](http://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
+* [Rainforest Alliance](https://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
 * [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
 * [helsinkifoundation.org](https://www.helsinkifoundation.org/) - Create your own personal wilderness reserve, or give one to someone else.
 * [Rainforest Partnership](https://rainforestpartnership.org/) - Data driven international nonprofit dedicated to protecting tropical rainforests.
