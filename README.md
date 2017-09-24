@@ -71,6 +71,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
+* [farmdrop](https://www.farmdrop.com/) - The ethical grocer. Currently available in London, Bristol & Bath (UK).
 
 # Blogs / Publications
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
