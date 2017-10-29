@@ -82,7 +82,6 @@ The author believes that **protecting the environment is an urgent matter** and 
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
 * [NASA - Global Climate Change](https://climate.nasa.gov/) - Vital signs of the planet.
-* [WikiFootprints](http://wikifootprints.org/en/Main_Page) - free, openly editable, resource for including the environment in your decision to consume goods and services.
 
 # Tools
 
