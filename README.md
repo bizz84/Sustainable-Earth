@@ -101,6 +101,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * 2017-07-10 - [Just 100 companies responsible for 71% of global emissions, study says](https://www.theguardian.com/sustainable-business/2017/jul/10/100-fossil-fuel-companies-investors-responsible-71-global-emissions-cdp-study-climate-change).
 * 2017-07-09 - [The Uninhabitable Earth](http://nymag.com/daily/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html) - Famine, economic collapse, a sun that cooks us: What climate change could wreak — sooner than you think.
 * 2017-03-23 - [Scientists made a detailed “roadmap” for meeting the Paris climate goals. It’s eye-opening.](https://www.vox.com/energy-and-environment/2017/3/23/15028480/roadmap-paris-climate-goals)
+* 2016-08-15 - [We Need to Literally Declare War on Climate Change](https://newrepublic.com/article/135684/declare-war-climate-change-mobilize-wwii).
 * 2015-07-27 - [It's not climate change - it's everything change](https://medium.com/matter/it-s-not-climate-change-it-s-everything-change-8fd9aa671804).
 
 # Movies
