@@ -92,6 +92,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Articles
 
+* 2017-11-02 - [Climate change 'will create world's biggest refugee crisis'](https://www.theguardian.com/environment/2017/nov/02/climate-change-will-create-worlds-biggest-refugee-crisis)
 * 2017-10-18 - [Warning of 'ecological Armageddon' after dramatic plunge in insect numbers](https://www.theguardian.com/environment/2017/oct/18/warning-of-ecological-armageddon-after-dramatic-plunge-in-insect-numbers)
 * 2017-09-14 - [100 Percent Wishful Thinking: the Green-Energy Cornucopia](https://www.counterpunch.org/2017/09/14/100-percent-wishful-thinking-the-green-energy-cornucopia/)
 * 2017-09-07 - [In a summer of wildfires and hurricanes, my son asks "why is everything going wrong?"](https://theintercept.com/2017/09/09/in-a-summer-of-wildfires-and-hurricanes-my-son-asks-why-is-everything-going-wrong/)
