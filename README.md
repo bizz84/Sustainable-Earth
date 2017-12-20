@@ -62,6 +62,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [myclimate.org](http://www.myclimate.org/) - Calculate and compensate for your CO2 footprint.
 * [helsinkifoundation.org](https://www.helsinkifoundation.org/) - Create your own personal wilderness reserve, or give one to someone else.
 * [Rainforest Partnership](https://rainforestpartnership.org/) - Data driven international nonprofit dedicated to protecting tropical rainforests.
+* [Plant a Billion](http://www.plantabillion.org/) - Plant trees and restore forests around the globe.
 * [Green Providers UK](http://www.green-providers.co.uk) - UK’s leading directory of eco-friendly, fair trade and ethical companies.
 
 # Companies
