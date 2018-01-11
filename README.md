@@ -93,7 +93,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Earth Null School](https://earth.nullschool.net) - A visualization of global weather conditions.
 
 # Articles
-
+* 2017-11-13 - [World Scientists’ Warning to Humanity: A Second Notice](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
 * 2017-11-02 - [Climate change 'will create world's biggest refugee crisis'](https://www.theguardian.com/environment/2017/nov/02/climate-change-will-create-worlds-biggest-refugee-crisis)
 * 2017-10-18 - [Warning of 'ecological Armageddon' after dramatic plunge in insect numbers](https://www.theguardian.com/environment/2017/oct/18/warning-of-ecological-armageddon-after-dramatic-plunge-in-insect-numbers)
 * 2017-09-14 - [100 Percent Wishful Thinking: the Green-Energy Cornucopia](https://www.counterpunch.org/2017/09/14/100-percent-wishful-thinking-the-green-energy-cornucopia/)
