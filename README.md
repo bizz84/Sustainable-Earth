@@ -91,6 +91,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [You fix it - can you get us within the climate budget?](https://www.nytimes.com/interactive/2017/08/29/opinion/climate-change-carbon-budget.html) - Climate simulator letting you explore more than 8,100 climate scenarios.
 * [WWF Footprint Calculator UK](http://footprint.wwf.org.uk/) - Calculate your environmental footprint.
 * [Earth Null School](https://earth.nullschool.net) - A visualization of global weather conditions.
+* [Climate Reanalyzer](http://www.cci-reanalyzer.org/) - A platform for visualizing climate and weather datasets.
 
 # Articles
 
