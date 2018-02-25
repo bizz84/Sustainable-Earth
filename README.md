@@ -92,6 +92,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [WWF Footprint Calculator UK](http://footprint.wwf.org.uk/) - Calculate your environmental footprint.
 * [Earth Null School](https://earth.nullschool.net) - A visualization of global weather conditions.
 * [Climate Reanalyzer](http://www.cci-reanalyzer.org/) - A platform for visualizing climate and weather datasets.
+* [Climate Life Events](https://climate-life-events.herokuapp.com/) - Climate change and life events estimation tool
 
 # Articles
 
