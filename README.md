@@ -97,6 +97,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Articles
 
+* 2018-11-05 - [Ten simple changes to help save the planet](http://www.bbc.com/future/story/20181102-what-can-i-do-about-climate-change)
 * 2018-02-28 - [Nobody is Coming to Save Us From Climate Change](https://thenib.com/nobody-is-coming-to-save-us-from-climate-change) (infographic)
 * 2018-02-02 - [Can We Stop Global Warming?](http://blog.cityprojections.com/2018/02/can-we-stop-global-warming.html)
 * 2017-11-13 - [World Scientists’ Warning to Humanity: A Second Notice](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
