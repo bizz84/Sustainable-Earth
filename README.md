@@ -70,6 +70,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [350.org](https://350.org/) - building the global grassroots climate movement that can hold our leaders accountable to science and justice.
 
 # Apps
+* [Tomorrow](http://tmrow.com/) - Automatically calculates the climate impact of your daily choices by connecting to apps and services you already use. Currently available in alpha for contributors.
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
