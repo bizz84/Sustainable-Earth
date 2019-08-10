@@ -87,7 +87,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 
 # Tools
 
-* [Global Climate Change](hhttps://climate.nasa.gov/earth-now/) - Explore a real-time data visualization of NASA’s Earth-orbiting satellites and the data they collect about climate change.
+* [Global Climate Change](https://climate.nasa.gov/earth-now/) - Explore a real-time data visualization of NASA’s Earth-orbiting satellites and the data they collect about climate change.
 * [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/CO2-emissions) - platform to see the most up-to-date data on carbon fluxes resulting from human activities and natural processes.
 * [You fix it - can you get us within the climate budget?](https://www.nytimes.com/interactive/2017/08/29/opinion/climate-change-carbon-budget.html) - Climate simulator letting you explore more than 8,100 climate scenarios.
 * [WWF Footprint Calculator UK](http://footprint.wwf.org.uk/) - Calculate your environmental footprint.
