@@ -65,9 +65,10 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Plant a Billion](https://www.plantabillion.org/) - Plant trees and restore forests around the globe.
 * [Green Providers UK](http://www.green-providers.co.uk) - UK’s leading directory of eco-friendly, fair trade and ethical companies.
 
-# Companies
+# Companies / Organizations
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
 * [350.org](https://350.org/) - building the global grassroots climate movement that can hold our leaders accountable to science and justice.
+* [ClimateAction.tech](https://climateaction.tech/) - a global community of tech professionals using their skills, expertise and platforms to support solutions to the climate crisis.
 
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
