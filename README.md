@@ -21,7 +21,6 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 
 
 # Content
-
 - [About](#about)
 - [How to Use](#how-to-use)
 - [Disclaimer](#disclaimer)
@@ -79,14 +78,15 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
 * [Reddit Environment](https://www.reddit.com/r/environment/) - Recent news, information and issues related to the environment.
 * [Carbon Friendly](https://medium.com/carbon-friendly) - Articles about climate change and living sustainably.
+* [Permaculture news](https://permaculturenews.org/) -  Daily Permaculture news from the Permaculture Research Institute.
 
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
 * [NASA - Global Climate Change](https://climate.nasa.gov/) - Vital signs of the planet.
 * [Tipping Elements - the Achilles Heels of the Earth System](https://www.pik-potsdam.de/services/infodesk/tipping-elements)
+* [United Nations Environment Programme](https://www.unenvironment.org/)
 
 # Tools
-
 * [Global Carbon Atlas](http://www.globalcarbonatlas.org/en/CO2-emissions) - platform to see the most up-to-date data on carbon fluxes resulting from human activities and natural processes.
 * [You fix it - can you get us within the climate budget?](https://www.nytimes.com/interactive/2017/08/29/opinion/climate-change-carbon-budget.html) - Climate simulator letting you explore more than 8,100 climate scenarios.
 * [WWF Footprint Calculator UK](http://footprint.wwf.org.uk/) - Calculate your environmental footprint.
@@ -96,7 +96,6 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Danish Metereological Institute - Artic Temperatures](http://ocean.dmi.dk/arctic/meant80n.uk.php) - Daily mean temperatures north of 80 degree north.
 
 # Articles
-
 * 2018-02-28 - [Nobody is Coming to Save Us From Climate Change](https://thenib.com/nobody-is-coming-to-save-us-from-climate-change) (infographic)
 * 2018-02-02 - [Can We Stop Global Warming?](http://blog.cityprojections.com/2018/02/can-we-stop-global-warming.html)
 * 2017-11-13 - [World Scientists’ Warning to Humanity: A Second Notice](https://academic.oup.com/bioscience/article/67/12/1026/4605229)
@@ -122,12 +121,10 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Paul Beckwith](https://www.youtube.com/channel/UCr546o7ImhGM57qoY0hHvkA) - videos about abrupt climate change ([Paul Beckwith bio](https://paulbeckwith.net/about/))
 
 # Contests
-
 * [MIT Climate CoLab](https://www.climatecolab.org/) - A collaborative online community centered around a series of annual contests that seek out promising ideas for fighting climate change.
 * [Climate Action Challenge](https://challenge.whatdesigncando.com) - global design competition calling on the creative community to submit bold, innovative solutions to combat the impacts of climate change.
 
 # Credits
-
 Icons made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [FlatIcon](www.flaticon.com) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/).
 
 # Contributing and License
