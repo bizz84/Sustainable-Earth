@@ -74,6 +74,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
 * [farmdrop](https://www.farmdrop.com/) - The ethical grocer. Currently available in London, Bristol & Bath (UK).
+* [LiveGreen](https://livegreen.io/) - Track your daily carbon emissions from meals, travel, purchases etc. and reduce your impact on planet.
 
 # Blogs / Publications
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
