@@ -44,7 +44,7 @@ The purpose of this project is as follows:
 
 #### Inform and empower people to make choices leading to a better future for humankind.
 
-**NOTE**: Some of the content on this list is of political nature (see [this thread](https://news.ycombinator.com/item?id=15148860) on Hacker News). 
+**NOTE**: Some of the content on this list is of political nature (see [this thread](https://news.ycombinator.com/item?id=15148860) on Hacker News).
 
 The author believes that **protecting the environment is an urgent matter** and more important than trying to keep politics out of the equation.
 
@@ -94,6 +94,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Climate Reanalyzer](http://www.cci-reanalyzer.org/) - A platform for visualizing climate and weather datasets.
 * [Climate Life Events](https://climate-life-events.herokuapp.com/) - Climate change and life events estimation tool.
 * [Danish Metereological Institute - Artic Temperatures](http://ocean.dmi.dk/arctic/meant80n.uk.php) - Daily mean temperatures north of 80 degree north.
+* [WebsiteCarbon](https://www.websitecarbon.com/) - Get an estimated value of CO2-emission of your website.
 
 # Articles
 
