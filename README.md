@@ -28,15 +28,15 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Books](#books)
 - [Climate Protection Projects](#climate-protection-projects)
 - [Companies](#companies)
-- [Apps](#apps)
-- [Blogs / Publications](#blogs--publications)
+- [Apps/Websites](#appswebsites)
+- [Blogs/Publications](#blogspublications)
 - [Reference](#reference)
 - [Tools](#tools)
 - [Articles](#articles)
 - [Movies](#movies)
 - [YouTube](#youtube)
 - [Contests](#contests)
-- [Contributing](#contributing)
+- [Contributing](#contributing-and-license)
 
 # Disclaimer
 
@@ -69,13 +69,14 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
 * [350.org](https://350.org/) - building the global grassroots climate movement that can hold our leaders accountable to science and justice.
 
-# Apps
+# Apps/Websites
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
 * [farmdrop](https://www.farmdrop.com/) - The ethical grocer. Currently available in London, Bristol & Bath (UK).
+* [Ecosia(Search Engine)](https://www.ecosia.org/) - The search engine that plants trees.
 
-# Blogs / Publications
+# Blogs/Publications
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
 * [Reddit Environment](https://www.reddit.com/r/environment/) - Recent news, information and issues related to the environment.
 * [Carbon Friendly](https://medium.com/carbon-friendly) - Articles about climate change and living sustainably.
