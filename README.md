@@ -64,6 +64,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Rainforest Partnership](https://rainforestpartnership.org/) - Data driven international nonprofit dedicated to protecting tropical rainforests.
 * [Plant a Billion](https://www.plantabillion.org/) - Plant trees and restore forests around the globe.
 * [Green Providers UK](http://www.green-providers.co.uk) - UK’s leading directory of eco-friendly, fair trade and ethical companies.
+* [Atmosfair](https://www.atmosfair.de/en/) - Non-profit company that lets you compensate your travels and other CO2 emissions.
 
 # Companies
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
