@@ -54,6 +54,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/0007209053): Our future on a hotter planet.
 * [Cradle to Cradle](https://www.amazon.com/Cradle-Remaking-Way-Make-Things/dp/0865475873) - Remaking the way we make things.
 * [The Rough Guide to Green Living](https://www.amazon.co.uk/Rough-Guide-Green-Living/dp/1848361076) - fact-filled, user-friendly guide to living a low-carbon, eco-friendly life.
+* [The Conscious Closet](https://www.amazon.com/Conscious-Closet-Revolutionary-Guide-Looking/dp/1524744301/) - Avoiding fast fashion and building a sustainable wardrobe.
 
 # Climate Protection Projects
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
