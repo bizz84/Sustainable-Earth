@@ -68,6 +68,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 # Companies
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
 * [350.org](https://350.org/) - building the global grassroots climate movement that can hold our leaders accountable to science and justice.
+* [EarthJustice](https://earthjustice.org) - Earthjustice is the premier nonprofit public interest environmental law organization.
 
 # Apps
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
