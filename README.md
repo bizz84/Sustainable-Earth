@@ -117,6 +117,8 @@ The author believes that **protecting the environment is an urgent matter** and 
 # Movies
 * [Before The Flood](https://www.beforetheflood.com/) - documentary about Climate Change, featuring Leonardo DiCaprio.
 * [An Inconvenient Truth](https://en.wikipedia.org/wiki/An_Inconvenient_Truth) - 2006 documentary about Climate Change made by Al Gore
+* [Anthropocene: The Human Epoch](https://theanthropocene.org/film/) - a 2018 Canadian documentary that showcases the extent of which we affect the world on an unprecedented scale.
+
 
 # YouTube
 * [Paul Beckwith](https://www.youtube.com/channel/UCr546o7ImhGM57qoY0hHvkA) - videos about abrupt climate change ([Paul Beckwith bio](https://paulbeckwith.net/about/))
