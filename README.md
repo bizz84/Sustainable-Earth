@@ -13,18 +13,21 @@ The list is divided into categories such as Books, Companies, Apps, Movies. Ther
 #### Sustainable Earth is on [Twitter](https://twitter.com/SustainForEarth). Help spread the word. 😎🚀
 
 # How to Use
+
 Sustainable-Earth is an amazing list for people who want to live more sustainably or help make the world a better place.
 
 - Ask for help on our [Twitter](https://twitter.com/SustainForEarth) or [Gitter Channel](https://gitter.im/SustainableEarth).
 - Simply press <kbd>command</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our *Content Menu*
 
-
 # Content
 
 - [About](#about)
+      - [Sustainable Earth is on Twitter. Help spread the word. 😎🚀](#sustainable-earth-is-on-twitter-help-spread-the-word-)
 - [How to Use](#how-to-use)
+- [Content](#content)
 - [Disclaimer](#disclaimer)
+      - [Inform and empower people to make choices leading to a better future for humankind](#inform-and-empower-people-to-make-choices-leading-to-a-better-future-for-humankind)
 - [Books](#books)
 - [Climate Protection Projects](#climate-protection-projects)
 - [Companies](#companies)
@@ -36,19 +39,21 @@ Sustainable-Earth is an amazing list for people who want to live more sustainabl
 - [Movies](#movies)
 - [YouTube](#youtube)
 - [Contests](#contests)
-- [Contributing](#contributing)
+- [Credits](#credits)
+- [Contributing and License](#contributing-and-license)
 
 # Disclaimer
 
 The purpose of this project is as follows:
 
-#### Inform and empower people to make choices leading to a better future for humankind.
+#### Inform and empower people to make choices leading to a better future for humankind
 
-**NOTE**: Some of the content on this list is of political nature (see [this thread](https://news.ycombinator.com/item?id=15148860) on Hacker News). 
+**NOTE**: Some of the content on this list is of political nature (see [this thread](https://news.ycombinator.com/item?id=15148860) on Hacker News).
 
 The author believes that **protecting the environment is an urgent matter** and more important than trying to keep politics out of the equation.
 
 # Books
+
 * [Leftover Pie](https://leftoverpie.co.uk/) - 101 ways to reduce your food waste.
 * [Drawdown](http://www.drawdown.org/) - The most comprehensive plan ever proposed to reverse global warming.
 * [Six Degrees](https://www.amazon.com/Six-Degrees-Future-Hotter-Planet/dp/0007209053): Our future on a hotter planet.
@@ -56,6 +61,7 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [The Rough Guide to Green Living](https://www.amazon.co.uk/Rough-Guide-Green-Living/dp/1848361076) - fact-filled, user-friendly guide to living a low-carbon, eco-friendly life.
 
 # Climate Protection Projects
+
 * [Trump Forest](https://trumpforest.com/) - Where ignorance grows trees.
 * [OneTreePlanted](https://onetreeplanted.org/) - Non profit focused on global reforestation.
 * [Rainforest Alliance](https://www.rainforest-alliance.org/) - Working with you to rebalance the planet.
@@ -66,21 +72,25 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Green Providers UK](http://www.green-providers.co.uk) - UK’s leading directory of eco-friendly, fair trade and ethical companies.
 
 # Companies
+
 * [Give Directly](https://www.givedirectly.org/) - Send money directly to people living in extreme poverty.
 * [350.org](https://350.org/) - building the global grassroots climate movement that can hold our leaders accountable to science and justice.
 
 # Apps
+
 * [Eco Buddy](http://ecobuddyapp.com/) - A diary of your carbon footprint. Currently only available in the UK.
 * [ShareTheMeal](https://sharethemeal.org/) - Together we can end hunger.
 * [Plume Labs](https://plumelabs.com/en/) - The first smart air quality tracker.
 * [farmdrop](https://www.farmdrop.com/) - The ethical grocer. Currently available in London, Bristol & Bath (UK).
 
 # Blogs / Publications
+
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
 * [Reddit Environment](https://www.reddit.com/r/environment/) - Recent news, information and issues related to the environment.
 * [Carbon Friendly](https://medium.com/carbon-friendly) - Articles about climate change and living sustainably.
 
 # Reference
+
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
 * [NASA - Global Climate Change](https://climate.nasa.gov/) - Vital signs of the planet.
 * [Tipping Elements - the Achilles Heels of the Earth System](https://www.pik-potsdam.de/services/infodesk/tipping-elements)
@@ -115,10 +125,12 @@ The author believes that **protecting the environment is an urgent matter** and 
 * 2015-07-27 - [It's not climate change - it's everything change](https://medium.com/matter/it-s-not-climate-change-it-s-everything-change-8fd9aa671804).
 
 # Movies
+
 * [Before The Flood](https://www.beforetheflood.com/) - documentary about Climate Change, featuring Leonardo DiCaprio.
 * [An Inconvenient Truth](https://en.wikipedia.org/wiki/An_Inconvenient_Truth) - 2006 documentary about Climate Change made by Al Gore
 
 # YouTube
+
 * [Paul Beckwith](https://www.youtube.com/channel/UCr546o7ImhGM57qoY0hHvkA) - videos about abrupt climate change ([Paul Beckwith bio](https://paulbeckwith.net/about/))
 
 # Contests
@@ -131,5 +143,6 @@ The author believes that **protecting the environment is an urgent matter** and 
 Icons made by [Flat Icons](https://www.flaticon.com/authors/flat-icons) from [FlatIcon](www.flaticon.com) is licensed by [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/).
 
 # Contributing and License
- * [See the guide](https://github.com/bizz84/Sustainable-Earth/blob/master/.github/CONTRIBUTING.md)
- * Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
+
+* [See the guide](https://github.com/bizz84/Sustainable-Earth/blob/master/.github/CONTRIBUTING.md)
+* Distributed under the MIT license. See [LICENSE](LICENSE) for more information.
