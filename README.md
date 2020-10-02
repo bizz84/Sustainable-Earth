@@ -79,11 +79,13 @@ The author believes that **protecting the environment is an urgent matter** and 
 * [Faster Than Expected](http://www.fasterthanexpected.com/blog/) - Diary about a world that is changing faster than expected, as reported by various sources.
 * [Reddit Environment](https://www.reddit.com/r/environment/) - Recent news, information and issues related to the environment.
 * [Carbon Friendly](https://medium.com/carbon-friendly) - Articles about climate change and living sustainably.
+* [Sustainable-dev](https://the-sustainable.dev/) - Articles, resources and contacts for a greener web.
 
 # Reference
 * [Wikipedia - List of countries by carbon dioxide emissions per capita](https://en.wikipedia.org/wiki/List_of_countries_by_carbon_dioxide_emissions_per_capita)
 * [NASA - Global Climate Change](https://climate.nasa.gov/) - Vital signs of the planet.
 * [Tipping Elements - the Achilles Heels of the Earth System](https://www.pik-potsdam.de/services/infodesk/tipping-elements)
+* [Sustainable Web Design](https://sustainablewebdesign.org/) - Facts and best practices for a more sustainable web.
 
 # Tools
 
